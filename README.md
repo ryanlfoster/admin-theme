@@ -6,7 +6,9 @@ Custom Magento Admin Theme
 This is a work in progress. 
 
 Demo: http://www.michelarteta.magemojo.com/admin
+
 Username: test
+
 Password: test123$
 
 
